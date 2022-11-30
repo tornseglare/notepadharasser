@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyboardReader2", "KeyboardReader2\KeyboardReader2.csproj", "{43DCCFE4-FE3A-414F-9999-942535667221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotepadHarasser", "NotepadHarasser\NotepadHarasser.csproj", "{AF828EA6-24AE-4910-A6AF-0E1C55772AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43DCCFE4-FE3A-414F-9999-942535667221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DCCFE4-FE3A-414F-9999-942535667221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DCCFE4-FE3A-414F-9999-942535667221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DCCFE4-FE3A-414F-9999-942535667221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF828EA6-24AE-4910-A6AF-0E1C55772AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF828EA6-24AE-4910-A6AF-0E1C55772AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF828EA6-24AE-4910-A6AF-0E1C55772AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF828EA6-24AE-4910-A6AF-0E1C55772AED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2AA452C-05B3-4D7F-8F69-E7FC01E00C49}
+	EndGlobalSection
+EndGlobal
